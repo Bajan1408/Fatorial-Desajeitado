@@ -51,4 +51,8 @@ if(n <= 2){
 
       }
 
+let varTeste = 'Um texto aqui';
+
+console.log(varTeste);
+
     
