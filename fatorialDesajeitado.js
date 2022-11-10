@@ -58,4 +58,8 @@ console.log(varTeste);
 
 console.log('Esta linha foi incluida no repositório local após uma alteração no remoto, e antes de mergear');
 
+
+console.log('Agora o conflito foi resolvido e subido o código de novo pro gitHub');
+
+
     
