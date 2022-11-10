@@ -55,4 +55,7 @@ let varTeste = 'Um texto aqui';
 
 console.log(varTeste);
 
+
+console.log('Esta linha foi incluida no repositório local após uma alteração no remoto, e antes de mergear');
+
     
