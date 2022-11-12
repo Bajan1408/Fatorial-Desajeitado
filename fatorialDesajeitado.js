@@ -1,4 +1,4 @@
-let n = 10;
+let n = 12;
 
 let tmp = n;
 let tmp2 = tmp - 1;
@@ -51,15 +51,15 @@ if(n <= 2){
 
       }
 
-let varTeste = 'Um texto aqui';
-
-console.log(varTeste);
 
 
-console.log('Esta linha foi incluida no repositório local após uma alteração no remoto, e antes de mergear');
 
 
-console.log('Agora o conflito foi resolvido e subido o código de novo pro gitHub');
+
+
+
+
+
 
 
     
